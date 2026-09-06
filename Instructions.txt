@@ -1,0 +1,11 @@
+As soon as you run the code on the compiler, a menu will pop up asking the user whether he wants to play tic-tac-toe, chess or wants to exit.
+ After the selecting the appropriate option, the game will proceed further. If the user selects to play tic-tac-toe, the board for tic-tac-toe will be displayed.
+
+Instructions for tic-tac-toe:
+                             The game will ask the player X to enter his move in the form of row and column. The first column and row of the board is 0, second one being 1 and third one being 2. So,the user can enter a valid move like 0(row number) and 1(column number) in the next line. If the user selects an invalid option, the game will tell that it's an invalid move, skip the turn of the current player and proceed towards the turn of the other player.
+
+If the user selects to play chess, the board for chess will be displayed. White pieces are represented by capital letters whereas black pieces by small letters.
+
+Instructions for chess:
+                       The game will ask the white player to make a move by specifying the starting coordinates on the board and the end coordinates. The board has 8 rows i.e 0-7 and similarly 8 columns i.e 0-7. The first row and column starts from the place where the white rookie is placed i.e R on the left side of the board.
+                         
